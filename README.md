@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas0121" alt="vikas0121" /></a> </p>
 
-- 💬 Ask me about **nodejs, graphql, mongodb, redis, elasticseatch**
+- 💬 Ask me about **nodejs, graphql, mongodb, redis, elasticseatch, go**
 
 - 📫 How to reach me **vikaskumar4793@gmail.com**
 
